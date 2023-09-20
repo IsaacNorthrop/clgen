@@ -1,4 +1,4 @@
-# Isaac Northrop, isaac.northrop88@gmail.com, gsnap88#6480, github.com/gsnap88
+# Isaac Northrop, isaac.northrop88@gmail.com, gsnap88, github.com/gsnap88
 
 from fpdf import FPDF
 from datetime import date
