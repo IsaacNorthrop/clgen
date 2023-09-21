@@ -2,7 +2,7 @@
 [Installation](#Installation)  
 [Customization](#Customization)  
 [Author](#Author)  
-[Documentation](#Documentation)
+[Documentation](#Documentation)  
 [License](#License)  
 
 
@@ -22,7 +22,7 @@ python 3 pdftest.py
 In order to modify the program to your needs, you must make some changes. Insert your own cover letter into the Sample Letter section. Make sure that no line exceeds 100 characters, to ensure proper formatting. Change to sig.png file to your own signature. After these changes the program should be ready for use.
 
 ## Documentation
-[FPDF](fpdf.org/en/doc/index.php)
+[FPDF](https://fpdf.org/en/doc/index.php)
 
 ## Author
 Isaac Northrop - [Github](https://github.com/IsaacNorthrop)
