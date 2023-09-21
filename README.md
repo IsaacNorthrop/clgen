@@ -9,7 +9,7 @@
 From the terminal, naviguate to your preferred directory. Clone the repository.  
 
 `
-git clone https://github.com/gsnap88/clgen.git
+git clone https://github.com/IsaacNorthrop/clgen.git
 `  
 
 Run the program by running the batch file. If using MacOS, run the python file.
